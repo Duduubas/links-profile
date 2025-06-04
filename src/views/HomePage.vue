@@ -28,24 +28,24 @@ export default {
         <!-- seção de links -->
         <div class="links">
             <ul class="link-list">
+                <li><h1>Confira o meu WebSite!</h1>
+                    <p>Confira mais sobre os meus projetos e mais informações sobre mim.</p>
+                    <a href="https://eduardobrito.dev" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
+                </li>
+
                 <li><h1>Me acompanhe no GitHub!</h1>
                     <p>Acompanhe todos os meus projetos.</p>
-                    <a href="https://github.com/seuusuario" target="_blank" class="link-item">Clique aqui  <ArrowUpRight :size="23"/></a>
+                    <a href="https://github.com/Duduubas" target="_blank" class="link-item">Clique aqui  <ArrowUpRight :size="23"/></a>
                 </li>
 
                 <li><h1>Me siga no LinkedIn!</h1>
                     <p>Conecte-se comigo para oportunidades profissionais e networking.</p>
-                    <a href="https://github.com/seuusuario" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
+                    <a href="https://linkedin.com/in/eduardobritoo" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
                 </li>
 
                 <li><h1>Contate-me pelo Discord!</h1>
                     <p>Entre em contato comigo pelo Discord para conversarmos sobre projetos, dúvidas ou parcerias!</p>
-                    <a href="https://github.com/seuusuario" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
-                </li>
-
-                <li><h1>Confira o meu WebSite!</h1>
-                    <p>Confira mais sobre os meus projetos e mais informações sobre mim.</p>
-                    <a href="https://github.com/seuusuario" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
+                    <a href="https://discord.com/users/522531030834610211" target="_blank" class="link-item">Clique aqui   <ArrowUpRight :size="23"/></a>
                 </li>
 
                 <li><h1>Contate-me para parcerias e projetos!</h1>
