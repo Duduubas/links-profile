@@ -54,6 +54,21 @@ export default {
                         </li>
                     </div>
 
+                      <!-- Título da imersão -->
+                      <div class="section-title">
+                        <h2>Garanta sua vaga com <span class="highlight-blue">desconto exclusivo</span> na <span class="highlight-blue">Alura</span>!</h2>
+                      </div>
+
+                    <div class="card-standard">
+                        <li>
+                            <h3>Desconto especial na <span class="highlight-blue">Alura</span></h3>
+                            <p>Aproveite 15% OFF para estudar na principal escola de tecnologia do Brasil e impulsione sua carreira!</p>
+                            <a href="https://www.alura.com.br/indica-dev/duduubas" target="_blank" class="link-button">
+                                Resgate o desconto <ArrowUpRight :size="20"/>
+                            </a>
+                        </li>
+                    </div>
+
                     <!-- Principais projetos -->
                     <div class="section-title">
                         <h2>Principais projetos</h2>
@@ -464,8 +479,8 @@ export default {
 /* Tablets */
 @media (max-width: 768px) {
     .header {
-        flex-direction: column;
-        padding: 2rem 1rem 0;
+      flex-direction: column;
+      padding: 2rem 1rem 0;
     }
     
     .header-content {
@@ -497,7 +512,6 @@ export default {
     .card-with-image li {
         flex-direction: column;
         flex-direction: column-reverse;
-        text-align: center;
         gap: 2rem;
         min-height: auto;
     }
@@ -576,11 +590,6 @@ export default {
     .link-button {
         padding: 0.7rem 1.2rem;
         font-size: 0.85rem;
-    }
-    
-    .card-image,
-    .card-image-alura {
-        display: none;
     }
     
     .footer {
