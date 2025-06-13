@@ -63,7 +63,7 @@ export default {
                         <li>
                             <h3>CertifiPro</h3>
                             <p>Plataforma online para emissão de certificados digitais.</p>
-                            <a href="https://github.com/Duduubas" target="_blank" class="link-button">
+                            <a href="https://certifipro.vercel.app" target="_blank" class="link-button">
                                 Ver projeto no ar <ArrowUpRight :size="20"/>
                             </a>
                         </li>
@@ -73,7 +73,7 @@ export default {
                         <li>
                             <h3>Gerador de QR Codes</h3>
                             <p>Crie QR Codes personalizados de forma rápida e fácil para compartilhar links e muito mais.</p>
-                            <a href="https://linkedin.com/in/eduardobritoo" target="_blank" class="link-button">
+                            <a href="https://qrcodegenerator.eduardobrito.dev" target="_blank" class="link-button">
                                 Ver projeto no ar <ArrowUpRight :size="20"/>
                             </a>
                         </li>
