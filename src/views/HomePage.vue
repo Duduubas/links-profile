@@ -16,7 +16,7 @@ export default {
         </div>
 
         <div class="header-content">
-            <h1>Bem-vindo aos meus links!</h1>
+            <h1>Bem-vindo aos meus links</h1>
             <p>Olá! Sou Eduardo Brito, desenvolvedor front-end focado em criar interfaces intuitivas e experiências interativas que elevam a navegação na web.</p>
         </div>
     </section>
@@ -49,15 +49,15 @@ export default {
                                 </a>
                             </div>
                             <div class="card-image-alura">
-                                <img src="../assets/public/alura-imersao.png" alt="Imagem dos instrutores imersão devops">
+                                <img src="../assets/public/alura-imersao.webp" alt="Imagem dos instrutores imersão devops">
                             </div>
                         </li>
                     </div>
 
-                      <!-- Título da imersão -->
-                      <div class="section-title">
+                    <!-- Título da imersão -->
+                    <div class="section-title">
                         <h2>Garanta sua vaga com <span class="highlight-blue">desconto exclusivo</span> na <span class="highlight-blue">Alura</span>!</h2>
-                      </div>
+                    </div>
 
                     <div class="card-standard">
                         <li>
@@ -479,8 +479,8 @@ export default {
 /* Tablets */
 @media (max-width: 768px) {
     .header {
-      flex-direction: column;
-      padding: 2rem 1rem 0;
+        flex-direction: column;
+        padding: 2rem 1rem 0;
     }
     
     .header-content {
